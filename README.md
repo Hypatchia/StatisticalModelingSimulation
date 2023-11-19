@@ -1,6 +1,6 @@
 
-
-### This GitHub repository houses a collection of code related to Statics and Data Science from my Msc Degree in Applied Statics.
+### Overview
+This GitHub repository serves as a comprehensive collection of code developed during my Master of Science (MSc) Degree in Applied Statistics. The code covers a wide range of topics in statistics and data science, showcasing practical applications and hands-on experience gained throughout the academic program.
 
 ### Built in:
 
@@ -48,9 +48,10 @@ Your contributions can help make this repository a valuable resource for the dat
 
 
 
-## Contact:
-Let's connect and explore how my skills and expertise in Applied Statistic and Probability can ontribute to your team.
+## Contact
+ Feel free to reach out to me on LinkedIn or through email & don't forget to visit my portfolio.
  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://your-portfolio-url-here.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://sambelh.azurewebsites.net/)
+
